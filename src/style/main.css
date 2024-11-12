@@ -1,0 +1,7 @@
+@import 'base.css';
+@import "common.css";
+
+#app {
+  position: relative;
+  height: 100%;
+}
